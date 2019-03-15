@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/react-app/static/media/kazuma.5bb60cb7.jpg"
   },
   {
-    "revision": "39fe7323b690fa2c6419",
-    "url": "/react-app/static/css/main.79b0db6b.chunk.css"
+    "revision": "a0201ec4926b1982a331",
+    "url": "/react-app/static/css/main.4cf0c076.chunk.css"
   },
   {
     "revision": "9ed022644c6f38b380ac",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/react-app/static/media/tanya.b92d86b3.jpg"
   },
   {
-    "revision": "9548385644a302f071d3",
-    "url": "/react-app/static/js/2.0e9fd98a.chunk.js"
+    "revision": "6e9c0083f1d97142f8aa",
+    "url": "/react-app/static/js/2.62389513.chunk.js"
   },
   {
     "revision": "de81acff0b83c38a8210cd819d42ca1d",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/react-app/static/media/iori.60006d48.jpg"
   },
   {
-    "revision": "39fe7323b690fa2c6419",
-    "url": "/react-app/static/js/main.80ed4dbc.chunk.js"
+    "revision": "a0201ec4926b1982a331",
+    "url": "/react-app/static/js/main.f1c58d9e.chunk.js"
   },
   {
     "revision": "89c9491b9f2899ba2ac83a32186065c2",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/react-app/static/media/shalltear.74b25ee9.jpg"
   },
   {
-    "revision": "9548385644a302f071d3",
+    "revision": "6e9c0083f1d97142f8aa",
     "url": "/react-app/static/css/2.c4bbc8fd.chunk.css"
   },
   {
-    "revision": "b028e9857dbebc40a4eaac2f6366f028",
+    "revision": "bb52a2e85147729184509df0dfb49529",
     "url": "/react-app/index.html"
   }
 ];
